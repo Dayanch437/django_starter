@@ -67,4 +67,6 @@ collected_static/
 .dockerignore
 
 # Logs
-logs/
+logs/*.log
+logs/*.txt
+!logs/.gitkeep
